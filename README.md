@@ -1,1 +1,1 @@
-# C-2.-Program
+# C++ 2.-Program
